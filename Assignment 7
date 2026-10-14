@@ -5,3 +5,8 @@ The app could be anonymous so people will be more likely to use it if they know 
 in frequent areas of drunk driving.
 
 In the end, less and less people will drink and drive, maybe even choose different avenues of getting home after having alcohol because no one wants a ticket and possible jail time for a DUI.
+
+Testing Specification: Functional: Customer expects the number of drunk drivers to go down in the area. Non-Functional: It may be expected that no one gets hurt in the process of enforcing the law of preventing drunk driving.
+Non-Functional: The customer may expect that this app will let them give the exact location of the incident, and they may assume that their identity will be anonymous.
+Test Case01: input: drunk driver in Five points Output: someone in the area reports it and officers are sent in that direction.
+Test Case 02: input:
