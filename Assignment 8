@@ -1,0 +1,24 @@
+
+
+
+# Requirements
+
+The client wants a solution that will cause fewer people to drink and drive.
+
+## Specification
+
+Maybe an app could be developed solely for drunk-driving cases to be reported immediately to authorities at the specific location. Authorities would discipline those who drink and drive.
+
+The app could be anonymous so people would be more likely to use it if they knew their names wouldn’t be attached to reports. Alternatively, we could implement tiny police stations, like the ones in Japan, in areas where drunk driving occurs frequently.
+
+## Testing Specification
+
+- **Functional:** The customer expects the number of drunk drivers in the area to go down.
+- **Non-functional:** It may be expected that no one gets hurt while enforcing the law against drunk driving.
+- **Non-functional:** The customer may expect the app to let them provide the exact location of an incident and may assume their identity will remain anonymous.
+
+## Test Case 01
+
+- **Input:** Drunk driver in Five Points
+- **Expected output:** Someone in the area reports it, and officers are sent in that direction.
+```
